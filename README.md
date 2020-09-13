@@ -6,13 +6,13 @@ This work demonstrates the mobile responsive features of Bootstrap.
 
 
 Description
-This is an ...
+This is a porfolio of my digital work.
 
 Installation
-
+N/A
 
 How To Use
-
+N/A
 
 License 
 
